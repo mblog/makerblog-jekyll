@@ -19,8 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: makerblog.info
-email: marc.bertram@gmail.com
-description: My Coding, Making and Tech Projects
+description: My Coding, Making and Tech Projects!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.makerblog.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mb_log  

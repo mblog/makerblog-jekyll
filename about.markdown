@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: About Makerblog.info  
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello everybody,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+and welcome to my littel blog.
+On this blog I will write about my tech realated thoughts and projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Main topics are:
+* Coding (Python, JavaScript, ...)
+* Making
+    * Rasperry Pi
+    * Arduino
+    * ESP32 or ESP8266
+    * ...
+* and other current IT topics.
 
+Best regards
+Marc
 
-[jekyll-organization]: https://github.com/jekyll
