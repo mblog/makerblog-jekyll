@@ -82,7 +82,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mblog"
-    - label: "Website"
+    - label: "Codingschule"
       icon: "fas fa-fw fa-link"
       url: "https://www.codingschule.de"
 
@@ -235,7 +235,6 @@ defaults:
       share: false
       related: true
       show_date: true
-      classes: wide
   # _pages
   - scope:
       path: ""
