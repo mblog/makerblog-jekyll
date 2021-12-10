@@ -55,3 +55,4 @@ plugins:
 markdown: GFM
 
 show_excerpts: true
+excerpt_separator: <!--more-->
