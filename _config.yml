@@ -23,8 +23,6 @@ title_separator: "|"
 description: "Coding, Making and Tech Projects!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.makerblog.info" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: mb_log  
-#github_username:  mblog
 
 # Build settings
 #theme: minima
@@ -54,16 +52,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#markdown: GFM
-
-#show_excerpts: true
-#excerpt_separator: <!--more-->
-
 minimal_mistakes_skin: "default"
 
 search: true
 search_full_content: true
-
 
 twitter:
   username: "mb_log"
