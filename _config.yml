@@ -74,7 +74,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Germany"
-  email            : "marc.bertram@gmail.com"
+  email            : #"marc.bertram@gmail.com"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -88,10 +88,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/mb_log"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/mblog"
 
 # Reading Files
 include:
