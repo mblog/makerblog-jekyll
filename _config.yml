@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 markdown: GFM
+
+show_excerpts: true
