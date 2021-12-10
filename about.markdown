@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About Makerblog.info  
+title: About  
 permalink: /about/
 ---
 
-## Hello everybody,
+## makerblog.info
+
+### Hello everybody,
 
 and welcome to my little blog about my realated thoughts and projects.
 
