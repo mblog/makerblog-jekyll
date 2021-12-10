@@ -26,7 +26,7 @@ twitter_username: mb_log
 github_username:  mblog
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 #remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
