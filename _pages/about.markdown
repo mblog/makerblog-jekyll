@@ -9,7 +9,7 @@ author_profile: true
 
 ### Hello everybody,
 
-and welcome to my little blog about my realated thoughts and projects.
+and welcome to my little blog about my tech realated thoughts and projects.
 
 **Main topics are:**
 * Coding
