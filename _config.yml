@@ -89,6 +89,8 @@ footer:
       url: "https://github.com/mblog"
     - label: "Impressum"
       url: "/impressum"
+    - label: "Privacy Policy"
+      url: "/privacypolicy"
 
 # Reading Files
 include:
