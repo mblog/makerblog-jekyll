@@ -19,7 +19,6 @@ and welcome to my little blog about my realated thoughts and projects.
     * Rasperry Pi
     * Arduino
     * ESP32 or ESP8266
-    * ...
 
 ... and other current IT stuff.
 
