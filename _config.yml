@@ -243,3 +243,5 @@ atom_feed:
   hide: true
 
 timezone: Europe/Berlin
+
+excerpt_separator: "<!--more-->"
