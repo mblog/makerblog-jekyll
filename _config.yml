@@ -52,7 +52,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 search: true
 search_full_content: true
@@ -63,8 +63,8 @@ twitter:
 # Site Author
 author:
   name             : "Marc Bertram"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
+  avatar           : "https://avatars.githubusercontent.com/u/483409?v=4"
+  bio              : "Just me!"
   location         : "Germany"
   email            : #"marc.bertram@gmail.com"
   links:
@@ -238,3 +238,8 @@ defaults:
       search: false
 
 locale: "en-US"
+
+atom_feed:
+  hide: true
+
+timezone: Europe/Berlin
