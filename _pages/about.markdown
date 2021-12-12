@@ -22,7 +22,7 @@ and welcome to my little blog about my tech realated thoughts and projects.
 
 ... and other current IT stuff.
 
-This blog is based on [Jekyll](https://jekyllrb.com/) an Ruby based CMS and [GitHub Pages](https://pages.github.com/).
+This blog is based on [Jekyll](https://jekyllrb.com/) an Ruby based static site generator and hosted on [GitHub Pages](https://pages.github.com/).
 
 In addition to this blog, I work for [Codingschule](https://www.codingschule.de) an non-profit education company.
 
